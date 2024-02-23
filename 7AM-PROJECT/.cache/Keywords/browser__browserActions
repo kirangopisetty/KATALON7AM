@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "390F31B2CBDB9DAE724FB0F521F9643C",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.browser.browserActions",
+      "keywordMethods": [
+        {
+          "name": "browserInit",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserExit",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserRefresh",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "browserResize",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

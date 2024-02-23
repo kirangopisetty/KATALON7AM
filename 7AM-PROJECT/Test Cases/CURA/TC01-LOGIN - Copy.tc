@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-LOGIN - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3692d180-5093-409b-9a79-ee33a74374f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>884bf002-349c-4d0c-a442-a99af5f56a7d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>884bf002-349c-4d0c-a442-a99af5f56a7d</id>
+      <masked>false</masked>
+      <name>un</name>
+   </variable>
+</TestCaseEntity>

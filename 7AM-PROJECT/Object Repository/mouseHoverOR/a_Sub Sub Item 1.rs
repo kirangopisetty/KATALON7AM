@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sub Sub Item 1</name>
+   <tag></tag>
+   <elementGuidId>737d4e7f-7e48-45be-a8a2-00646389a1d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='nav']/li[2]/ul/li[3]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>146bfb07-8c37-46bb-a16a-17f24203f240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>50b9923e-8cfc-443a-a2c4-8ff0f1b3a32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sub Sub Item 1</value>
+      <webElementGuid>ecacfdd6-a8f9-43b2-97b2-e3fe96518643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav&quot;)/li[2]/ul[1]/li[3]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>9b9ac627-ce9c-42f6-8670-dee242ea0753</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='nav']/li[2]/ul/li[3]/ul/li/a</value>
+      <webElementGuid>c2294a0a-1f4f-4d35-be4e-73d743845284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sub Sub Item 1')]</value>
+      <webElementGuid>7bad4061-9331-4eb3-b493-50432695cda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[6]</value>
+      <webElementGuid>37fe0f23-e14d-451b-bbf4-b2c52a987733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>0942ab20-2f5b-4b5c-a6c3-7e3515343384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Sub Sub Item 1' or . = 'Sub Sub Item 1')]</value>
+      <webElementGuid>eac11277-be01-43cf-859c-a18ca3c3807a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

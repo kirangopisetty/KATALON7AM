@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Write an email</name>
+   <tag></tag>
+   <elementGuidId>b86f790e-eb3a-4f73-b3b5-e618d637a6bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='slds-grid dummyControlsContainer']//button[@title='Write an email...']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8411e00a-88b4-4d40-91ca-1b6a5b4003d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>65943f6b-c20a-426b-bab0-a6ba3245e06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> label bBody</value>
+      <webElementGuid>b6b6ff73-2b15-482f-ae5c-58804e979c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1344:0</value>
+      <webElementGuid>c92a6902-9cf6-4b39-b801-e2f4c4716292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Write an email...</value>
+      <webElementGuid>e9c81da3-5f51-4036-b86a-649123879733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1319:0&quot;)/div[@class=&quot;testid__publisher-quick-action-collapser collapsedState forcePublisherQuickActionCollapser&quot;]/div[@class=&quot;slds-grid dummyControlsContainer&quot;]/button[@class=&quot;slds-button slds-button--neutral slds-col slds-no-space dummyButtonCallToAction uiButton&quot;]/span[@class=&quot;label bBody&quot;]</value>
+      <webElementGuid>ac305afc-efd7-43d3-aee1-60d7dc23c982</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='1319:0']/div/div/button/span</value>
+      <webElementGuid>22e4745e-5a99-4f02-ade9-2e9869035597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/span</value>
+      <webElementGuid>8cfaa4f7-1c1b-4782-847b-f161f34136bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Write an email...' or . = 'Write an email...')]</value>
+      <webElementGuid>1fd445c9-c9a5-4b63-9993-a81365383397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-BOOK-APPT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccee8fed-10cf-4666-91ba-17a1437971e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a791dea-a4d2-42a7-b69b-596b67b49a3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>187fb360-f9c3-415a-98a7-e4698a6535de</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c6ae060-017c-4f2a-8ac1-ce53d09c25c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>8a791dea-a4d2-42a7-b69b-596b67b49a3a</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>'28/02/2024'</defaultValue>
+      <description></description>
+      <id>187fb360-f9c3-415a-98a7-e4698a6535de</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'Marketing of a new medicine'</defaultValue>
+      <description></description>
+      <id>6c6ae060-017c-4f2a-8ac1-ce53d09c25c5</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

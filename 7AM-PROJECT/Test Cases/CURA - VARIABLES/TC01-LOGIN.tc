@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-LOGIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1965bd93-322c-4ebb-841a-59dadab0e7a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59de3f41-fadc-471b-a53d-3e78880b735f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ad648db-2185-44b5-9a99-4b59fef8ddba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89ac45c3-31a7-4cff-a650-b1be2d89f542</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>59de3f41-fadc-471b-a53d-3e78880b735f</id>
+      <masked>false</masked>
+      <name>un</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>5ad648db-2185-44b5-9a99-4b59fef8ddba</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/profile.php#login'</defaultValue>
+      <description></description>
+      <id>89ac45c3-31a7-4cff-a650-b1be2d89f542</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
